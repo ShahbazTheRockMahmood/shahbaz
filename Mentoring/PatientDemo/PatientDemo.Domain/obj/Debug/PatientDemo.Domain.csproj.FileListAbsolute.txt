@@ -1,0 +1,5 @@
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\bin\Debug\PatientDemo.Domain.dll
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\bin\Debug\PatientDemo.Domain.pdb
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\obj\Debug\PatientDemo.Domain.csprojResolveAssemblyReference.cache
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\obj\Debug\PatientDemo.Domain.dll
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\obj\Debug\PatientDemo.Domain.pdb

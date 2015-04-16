@@ -1,0 +1,4 @@
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\bin\Release\PatientDemo.Domain.dll
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\bin\Release\PatientDemo.Domain.pdb
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\obj\Release\PatientDemo.Domain.dll
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\obj\Release\PatientDemo.Domain.pdb

@@ -1,0 +1,8 @@
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Release\PatientDemo.ConsoleApp.exe.config
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Release\PatientDemo.ConsoleApp.exe
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Release\PatientDemo.ConsoleApp.pdb
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Release\PatientDemo.Domain.dll
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Release\PatientDemo.Domain.pdb
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\obj\Release\PatientDemo.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\obj\Release\PatientDemo.ConsoleApp.exe
+C:\Users\shahbaz mahmood\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\obj\Release\PatientDemo.ConsoleApp.pdb
